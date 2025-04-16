@@ -1,4 +1,5 @@
 Overview
+
 PG Life is an intuitive web-based platform designed to streamline the process of finding and managing PG accommodations. Developed as part of Internshala training, this project enhances the user experience by offering automated billing, room allocation details, and an interactive interface with property ratings and reviews.
 
 Features
